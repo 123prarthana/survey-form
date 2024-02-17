@@ -1,0 +1,47 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color:#41BDDB;
+  font-family: Verdana;
+}
+h1{
+  text-align: center;
+}
+.container{
+  font-size: 15px;
+  background-color: #ECECEC;
+  font-family: Verdana;
+  float: left;
+  margin-left:32%;
+  border: solid black 1px;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.form{
+  padding: 20px;
+}
+
+label{
+  display:block;
+  padding-bottom: 13px;
+}
+
+button{
+  margin-left: 40%;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  font-size: 17px;
+  border-radius: 5px;
+}
+
+input{
+  padding: 7px;
+  border-radius: 5px;
+  border: 1px solid grey;
+}
+
+
